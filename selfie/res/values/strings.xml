@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">selfie_Siying</string>
+    <string name="get_data">Get Photos</string>
+    <string name="flower_name_placeholder">Flower name</string>
+        <string name="hello">Hello World, XListViewActivity!</string>
+    <string name="xlistview_header_hint_normal">Pull</string>
+    <string name="xlistview_header_hint_ready">loosen to refresh</string>
+    <string name="xlistview_header_hint_loading">Loading</string>
+    <string name="xlistview_header_last_time">update time: just</string>
+    <string name="xlistview_footer_hint_normal">More pictures coming!...</string>
+    <string name="xlistview_footer_hint_ready">loosen to load more</string>
+
+</resources>
